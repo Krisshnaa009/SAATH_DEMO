@@ -1,0 +1,21 @@
+id: unclaimed_deposit_search
+title: "Unclaimed Deposit Search (UDGAM / DEAF)"
+institution_type: "rbi_portal"
+steps:
+  - "Go to the RBI UDGAM portal (udgam.rbi.org.in) — a centralised portal to search unclaimed deposits across multiple banks."
+  - "Register with your mobile number and OTP."
+  - "Search using the deceased's name, date of birth, and/or PAN/Aadhaar (enter masked values; verify the portal's privacy policy)."
+  - "If a match is found, note the bank name and reference. Contact that bank's branch directly to initiate the claim."
+  - "For deposits not listed on UDGAM (older deposits), contact the bank's DEAF (Depositor Education and Awareness Fund) desk directly."
+  - "The claim process follows the bank's standard deceased account claim procedure."
+required_documents:
+  - "Death certificate"
+  - "Claimant's identity proof"
+  - "Proof of relationship with the deceased"
+  - "Bank account details of claimant for credit"
+typical_timeline: null
+source_url: "https://udgam.rbi.org.in/"
+verified: false
+last_checked: null
+notes: "Not all banks are on UDGAM yet (integration is ongoing). For banks not yet covered, search directly on their website or visit their branch."
+legal_flag: false

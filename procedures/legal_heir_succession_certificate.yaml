@@ -1,0 +1,21 @@
+id: legal_heir_succession_certificate
+title: "Legal Heir Certificate / Succession Certificate"
+institution_type: "court_government"
+steps:
+  - "⚠️  This process involves legal and succession questions. Saath flags this step as requiring professional advice."
+  - "A Legal Heir Certificate is issued by the Tehsildar / Revenue office in most states — simpler and faster."
+  - "A Succession Certificate is issued by a civil court — a legal process that takes longer."
+  - "Both documents establish who the legal heirs are for a particular purpose; they do NOT determine how assets are distributed."
+  - "Consult a lawyer or a legal-aid clinic before proceeding to understand which document is required."
+required_documents:
+  - "Death certificate"
+  - "Proof of relationship (birth certificate, marriage certificate)"
+  - "Identity and address proofs of all applicants"
+  - "Court fee (for succession certificate) — amount varies by state and asset value"
+typical_timeline: null
+source_url: "TODO"
+verified: false
+last_checked: null
+notes: "This topic involves inheritance and legal rights. Saath does NOT provide legal advice. Please consult a lawyer or legal-aid service. This card exists only to flag that the step may be needed."
+legal_flag: true
+legal_advisory: "Needs a lawyer or legal-aid check — this involves inheritance rights and succession law, which Saath cannot advise on."

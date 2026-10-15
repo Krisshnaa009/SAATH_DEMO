@@ -1,0 +1,24 @@
+id: shares_demat_transmission
+title: "Shares / Demat Account Transmission"
+institution_type: "demat_broker"
+steps:
+  - "Contact the Depository Participant (DP) — the broker where the demat account is held."
+  - "Submit a Transmission Request Form along with a notarised death certificate."
+  - "If nominee registered with DP: nominee submits their KYC and a transmission form."
+  - "If no nominee: legal heir certificate / succession certificate required along with indemnity bonds."
+  - "For physical shares (if any): contact the company's Registrar & Transfer Agent."
+  - "Transferred shares/units land in the claimant's demat account; no automatic sale is triggered."
+required_documents:
+  - "Transmission Request Form (DP-specific)"
+  - "Death certificate (notarised copy)"
+  - "KYC documents of claimant"
+  - "Nominee declaration (if nominee claim)"
+  - "Succession certificate / legal heir certificate (if no nominee, above a threshold)"
+  - "Indemnity bond (for large holdings — verify threshold with DP)"
+  - "Claimant's demat account details"
+typical_timeline: null
+source_url: "https://www.sebi.gov.in/"
+verified: false
+last_checked: null
+notes: "Check both CDSL and NSDL portals if DP is unclear. Physical share transmission requires separate RTA process."
+legal_flag: false

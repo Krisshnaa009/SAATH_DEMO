@@ -1,0 +1,23 @@
+id: mutual_fund_transmission
+title: "Mutual Fund Unit Transmission"
+institution_type: "mutual_fund"
+steps:
+  - "Contact the AMC (Asset Management Company) or the Registrar & Transfer Agent (e.g. KFintech, CAMS) for the specific fund."
+  - "Submit a Transmission Request Form (TRF) available on the AMC/RTA website."
+  - "If nominee is registered: simpler process — attach death certificate, claimant's KYC and bank proof."
+  - "If no nominee: attach legal heir / succession certificate along with all legal heirs' consent (or court order)."
+  - "Units will be transmitted to the nominee/legal heir's folio; they can then redeem or continue to hold."
+required_documents:
+  - "Transmission Request Form (TRF)"
+  - "Death certificate (original + attested copy)"
+  - "KYC documents of claimant (PAN, Aadhaar)"
+  - "Cancelled cheque / bank proof of claimant"
+  - "Nominee declaration (if nominee claim)"
+  - "Legal heir / succession certificate (if no nominee)"
+  - "Indemnity bond (threshold may apply)"
+typical_timeline: null
+source_url: "https://www.amfiindia.com/"
+verified: false
+last_checked: null
+notes: "Each AMC may have slightly different TRF formats. Process via CAMS or KFintech if the folio is under their administration."
+legal_flag: false

@@ -1,0 +1,24 @@
+id: epf_pension_claim
+title: "EPF / EPS Pension Claim"
+institution_type: "epf"
+steps:
+  - "Obtain the UAN (Universal Account Number) of the deceased from salary slips or Form 16."
+  - "Nominee / family member submits Form 20 (for PF withdrawal by nominee) and Form 10-D (for monthly pension) to the EPFO regional office via the employer."
+  - "If the employer is uncooperative or closed, submit directly to EPFO with supporting evidence."
+  - "EPFO may require the employer's certificate; follow up with HR if delay occurs."
+  - "Track the claim status on the EPFO member portal using the UAN."
+required_documents:
+  - "Form 20 (PF Claim by nominee/legal heir)"
+  - "Form 10-D (EPS pension claim)"
+  - "Death certificate"
+  - "UAN details of deceased"
+  - "Bank account details of claimant with cancelled cheque"
+  - "Claimant's identity proof"
+  - "Nominee declaration on record with EPFO"
+  - "Joint photograph of claimant (if required by regional office)"
+typical_timeline: null
+source_url: "https://www.epfindia.gov.in/"
+verified: false
+last_checked: null
+notes: "Form numbers and procedures may change. Verify current forms on EPFO website. Legal-heir cases (no nominee) may need additional documentation."
+legal_flag: false

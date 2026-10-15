@@ -1,0 +1,19 @@
+id: death_certificate
+title: "Obtaining Death Certificate"
+institution_type: "municipal_corporation"
+steps:
+  - "Register the death at the local Municipal Corporation / Gram Panchayat within 21 days of death (late registration attracts a fee)."
+  - "Submit Form 2 (or equivalent) along with hospital death certificate / doctor's certificate."
+  - "Collect the official death certificate from the Registrar of Births and Deaths."
+  - "Obtain multiple certified copies (typically 10–15) as each institution will ask for one."
+required_documents:
+  - "Hospital-issued death certificate or doctor's declaration"
+  - "Proof of identity of informant (Aadhaar / Voter ID)"
+  - "Proof of residence of deceased"
+  - "Date and place of death details"
+typical_timeline: "3–7 working days for registration; certified copies usually same day."
+source_url: "https://crsorgi.gov.in/"
+verified: false
+last_checked: null
+notes: "Fees and exact forms vary by state. Verify at your local municipal office."
+legal_flag: false

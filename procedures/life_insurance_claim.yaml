@@ -1,0 +1,24 @@
+id: life_insurance_claim
+title: "Life Insurance Claim"
+institution_type: "insurance"
+steps:
+  - "Notify the insurance company in writing as soon as possible (check policy for notification deadline)."
+  - "Download or collect the Claim Intimation Form from the insurer's branch or website."
+  - "Submit the completed form along with required documents to the branch or online portal."
+  - "Insurer will assign a claim reference number — keep it for follow-ups."
+  - "Insurer may send a field investigator for early-claim or large-claim cases — cooperate fully."
+  - "Settlement of admitted claim is typically done by NEFT to the nominee's bank account."
+required_documents:
+  - "Claim Intimation Form (insurer-specific)"
+  - "Original policy bond (if available; if lost, file an indemnity)"
+  - "Death certificate (original + copies)"
+  - "Claimant's identity and address proof"
+  - "Claimant's bank account details with cancelled cheque"
+  - "Hospital records / post-mortem report (for accidental or early claims)"
+  - "Employer certificate for group insurance claims"
+typical_timeline: null
+source_url: "https://www.irdai.gov.in/"
+verified: false
+last_checked: null
+notes: "IRDAI mandates settlement within a specified number of days after receiving all documents; check the current regulation. Nominee is not the same as legal heir — do not conflate them."
+legal_flag: false

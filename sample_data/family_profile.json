@@ -1,0 +1,24 @@
+{
+  "_note": "SYNTHETIC DATA — no real persons, no real institutions",
+  "deceased": {
+    "name": "Mr. Ramesh Sharma",
+    "dob": "1958-03-15",
+    "date_of_death": "2025-09-20",
+    "pan_masked": "XXXXX1234S",
+    "aadhaar_masked": "XXXX-XXXX-7890",
+    "address": "42, Shivaji Nagar, Pune – 411005, Maharashtra"
+  },
+  "claimant": {
+    "name": "Mrs. Sunita Sharma",
+    "relationship": "spouse",
+    "phone_masked": "+91-XXXXXX-3456",
+    "email": "sunita.sharma.demo@example.com"
+  },
+  "known_institutions": [
+    "Demo Bank – Shivaji Nagar Branch (A/C XXXXXXXX9012)",
+    "Example Life Insurance Co. (Policy no. masked)"
+  ],
+  "nominee_known": true,
+  "will_present": false,
+  "state": "Maharashtra"
+}

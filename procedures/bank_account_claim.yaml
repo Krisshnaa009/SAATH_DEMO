@@ -1,0 +1,24 @@
+id: bank_account_claim
+title: "Bank Account Claim (Nominee / Survivor)"
+institution_type: "bank"
+steps:
+  - "Visit the home branch of the deceased with original death certificate and your own identity proof."
+  - "Submit a written application for settlement of the account (nominee claim or legal heir claim)."
+  - "If nominee is registered: bank processes directly. If no nominee: a succession certificate or legal heir certificate may be needed for amounts above a threshold (varies by bank)."
+  - "For small balance accounts (check RBI guidelines for current threshold), an indemnity bond with witnesses may suffice instead of a succession certificate."
+  - "Bank will freeze the account on notification; do not attempt further transactions."
+  - "Collect account statement from inception or last 12 months as evidence of other possible assets."
+required_documents:
+  - "Death certificate (original + copies)"
+  - "Claimant's identity proof (Aadhaar / PAN / Passport)"
+  - "Claimant's address proof"
+  - "Passbook / account details of deceased"
+  - "Nominee declaration (if nominee is claimant)"
+  - "Succession certificate / legal heir certificate (if no nominee and large balance)"
+  - "Indemnity bond (for small-balance cases — ask the branch)"
+typical_timeline: null
+source_url: "https://www.rbi.org.in/"
+verified: false
+last_checked: null
+notes: "Threshold for simplified settlement without succession certificate varies; confirm with the specific bank. Do not transfer funds until the bank formally approves."
+legal_flag: false
